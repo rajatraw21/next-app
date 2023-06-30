@@ -80,14 +80,14 @@ export default function MacBookPro141() {
 
             <Image
               className="w-[41px] h-[41px] absolute left-[101px] top-[500px]"
-              src="/check.png"
+              src="./check.png"
               width={500}
               height={400}
             />
 
             <Image
               className="w-[41px] h-[41px] absolute left-[101px] top-[589px]"
-              src="/check.png"
+              src="./check.png"
               width={500}
               height={400}
             />
@@ -120,14 +120,14 @@ export default function MacBookPro141() {
 
             <Image
               className="w-[41px] h-[41px] absolute left-[945px] top-[500px]"
-              src="/check.png"
+              src="./check.png"
               width={500}
               height={400}
             />
 
             <Image
               className="w-[41px] h-[41px] absolute left-[945px] top-[589px]"
-              src="/check.png"
+              src="./check.png"
               width={500}
               height={400}
             />
@@ -172,7 +172,7 @@ export default function MacBookPro141() {
 
         <Image
           className="w-[884px] h-[497px] absolute left-[305px] top-[889px]"
-          src="/three.png"
+          src="./three.png"
           width={500}
           height={400}
         />
