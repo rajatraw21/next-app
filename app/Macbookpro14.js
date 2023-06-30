@@ -15,7 +15,7 @@ export default function MacBookPro141() {
 
         <Image
           className="w-[525px] h-[515px] absolute left-[557px] top-[395px]"
-          src="/phone.png"
+          src="./public/phone.png"
           width={1000}
           height={4000}
         />
